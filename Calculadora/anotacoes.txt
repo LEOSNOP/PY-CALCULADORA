@@ -1,0 +1,6 @@
+Objetivo: criar uma calculadora usando python
+
+Plano inicial: fazer ela rodar no terminal
+
+
+
